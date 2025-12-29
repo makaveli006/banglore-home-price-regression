@@ -1,0 +1,11 @@
+Flask server
+==================
+cd C:\Users\subin\OneDrive\Desktop\SVM\CodeBasics\DataScience\BangloreHomePricesRegression\server\
+conda activate svm
+python server.py
+
+Streamlit
+=================
+cd C:\Users\subin\OneDrive\Desktop\SVM\CodeBasics\DataScience\BangloreHomePricesRegression\client_ui\streamlit_ui
+conda activate svm
+streamlit run app.py
